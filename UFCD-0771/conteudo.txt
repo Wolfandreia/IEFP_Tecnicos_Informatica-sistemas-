@@ -1,0 +1,11 @@
+Trabalho Pratico
+
+UFCD 0771
+
+Categoria/tipos de Cabos de Rede
+
+Tipos de redes
+	-Lan
+	-Man
+	-Wan
+Equipamentos de rede Ativos/passivos
